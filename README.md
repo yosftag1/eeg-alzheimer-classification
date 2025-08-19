@@ -1,5 +1,7 @@
 # EEG Graph Classification for Alzheimer's Detection
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16906541-blue)](https://doi.org/10.5281/zenodo.16906541)
+
 > note: This work was completed for my graduation thesis. Most experiments were run on Kaggle and organized as Jupyter notebooks, so the bulk of the code lives in notebooks throughout this repo.
 
 ## Data
@@ -9,7 +11,9 @@
 
 ## Preprint
 
-- PDF: [EEG Graph Classification for Alzheimer's Detection — Preprint](./eeg%20paper%20preprint.pdf)
+- DOI: https://doi.org/10.5281/zenodo.16906541
+- Zenodo record: https://zenodo.org/records/16906541
+- Local PDF: [EEG Graph Classification for Alzheimer's Detection — Preprint](./eeg%20paper%20preprint.pdf)
 
 This repository contains the implementation of a graph neural network-based approach for EEG signal classification, specifically designed for Alzheimer's disease detection using the OpenNeuro dataset.
 
@@ -155,6 +159,15 @@ The models are evaluated using:
 - Precision, recall, and F1-score
 - ROC-AUC analysis
 - Cross-validation performance
+
+
+## Citation
+
+If you use this work, please cite the preprint via the DOI:
+
+- https://doi.org/10.5281/zenodo.16906541
+
+You can also use Zenodo’s “Cite this record” to export BibTeX/APA/MLA.
 
 
 ## Contributing
