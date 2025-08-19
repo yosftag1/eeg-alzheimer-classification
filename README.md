@@ -4,7 +4,7 @@
 
 ## Data
 
-- Kaggle dataset (prepared/uploaded version): https://www.kaggle.com/datasets/yosftag/open-nuro-dataset
+- Kaggle dataset (uploaded by me for easer of use): https://www.kaggle.com/datasets/yosftag/open-nuro-dataset
 - Original OpenNeuro dataset: https://openneuro.org/datasets/ds004504/versions/1.0.6
 
 This repository contains the implementation of a graph neural network-based approach for EEG signal classification, specifically designed for Alzheimer's disease detection using the OpenNeuro dataset.
