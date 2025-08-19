@@ -1,0 +1,58 @@
+# Data Directory
+data/
+*.npy
+*.csv
+*.edf
+*.set
+*.fdt
+
+# Model Outputs
+models/
+*.pth
+*.pkl
+*.h5
+
+# Results and Figures
+results/
+figures/
+*.png
+*.jpg
+*.pdf
+*.svg
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+~$*
+
+# Log Files
+*.log
+
+# Large Data Files (uncomment if needed)
+# *.mat
+# *.hdf5

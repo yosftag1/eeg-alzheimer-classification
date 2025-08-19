@@ -1,0 +1,27 @@
+# Dependencies for EEG Graph Classification Project
+
+## Core Libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+## Deep Learning
+torch
+torchvision
+scikit-learn
+
+## EEG Processing
+mne
+EDFlib-Python
+## Time-Frequency Analysis
+pywavelets
+
+## Additional Utilities
+jupyter
+ipykernel
+tqdm
+plotly
+networkx
+EEGRAPH
