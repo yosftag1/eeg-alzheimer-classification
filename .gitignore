@@ -17,7 +17,6 @@ results/
 figures/
 *.png
 *.jpg
-*.pdf
 *.svg
 
 # Jupyter Notebook Checkpoints
