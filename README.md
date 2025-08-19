@@ -1,6 +1,6 @@
 # EEG Graph Classification for Alzheimer's Detection
 
-> Thesis note: This work was completed for my graduation thesis. Most experiments were run on Kaggle and organized as Jupyter notebooks, so the bulk of the code lives in notebooks throughout this repo.
+> note: This work was completed for my graduation thesis. Most experiments were run on Kaggle and organized as Jupyter notebooks, so the bulk of the code lives in notebooks throughout this repo.
 
 ## Data
 
