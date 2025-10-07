@@ -13,7 +13,7 @@
 ## Preprint
 
 - [📄 Read Online (Google Drive)](https://drive.google.com/file/d/19ZEAh9Nb9RBXwfrtz7R7F-PUbCtMaOpu/view?usp=sharing)
-- [⬇️ Download PDF](./Alzheimer's_Journal_Paper_Sep_14_preprint.pdf)
+- [⬇️ Download PDF](./Alzheimer’s_Journal_Paper_Sep_14_preprint.pdf)
 
 This repository contains the implementation of a graph neural network-based approach for EEG signal classification, specifically designed for Alzheimer's disease detection using the OpenNeuro dataset.
 
